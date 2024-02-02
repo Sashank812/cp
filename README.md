@@ -1,2 +1,2 @@
 # cp
-Here , you can find codes for some problems.
+Here , you can find codes for some coding problems.
